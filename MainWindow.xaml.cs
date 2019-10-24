@@ -73,7 +73,6 @@ namespace WpfApp1
                 Cleare_Win(array_0_X);
                 return;
             }
-
         }
 
         private void Check_row_column_diag(string[,] array_0_X, string symbol)
